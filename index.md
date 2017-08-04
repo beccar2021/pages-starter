@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Getting Started
-quote: The essential part of creativity is not being afraid to fail.
+title: Rebecca Rodriguez
+quote: I solemnly swear I am up to no good.
 cite: Edwin H. Land
 ---
 
