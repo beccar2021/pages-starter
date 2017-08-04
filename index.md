@@ -2,7 +2,7 @@
 layout: default
 title: Rebecca Rodriguez
 quote: I solemnly swear I am up to no good.
-cite: Edwin H. Land
+cite: Harry Potter
 ---
 
 This example is just meant to get you started and show you a little of what's
