@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rebecca Rodriguez
+title: Getting Started
 quote: I solemnly swear I am up to no good.
 cite: Harry Potter
 ---
